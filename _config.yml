@@ -1,0 +1,23 @@
+title: FarmaCraft
+description: Guia del servidor!
+author: ZukohRen
+
+url: "https://ger0xdev.github.io"
+baseurl: "/farmacraft"
+
+theme: jekyll-theme-minimal
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+include:
+  - assets/css
+
+nav:
+  - title: "Inicio"
+    url: /
+  - title: "Repositorio"
+    url: https://github.com/Ger0xDev/farmacraft
+  - title: "Ver README.md"
+    url: /README.md

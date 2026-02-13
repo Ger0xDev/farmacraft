@@ -50,7 +50,7 @@ Para los jugadores que deciden apoyar al servidor con un rango, existen comandos
 
 ### 💡 ¿Tienes dudas?
 Si hay algún comando que no entiendes o sientes que falta algo en esta lista, pregúntanos en nuestro canal de ayuda.
-[ Aqui](./issues.md)
+[ Aqui](./docs/issues.md)
 [**👉 Entra a nuestro Discord**](https://discord.gg/KPKgC6fW)
 
 [⬅️ Regresar al Inicio](./index.md)

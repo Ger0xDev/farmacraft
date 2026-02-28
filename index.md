@@ -49,7 +49,7 @@ Si eres nuevo, te recomendamos leer las siguientes secciones de esta wiki:
 1.  [Normas del Servidor](./reglas.md) **
 2.  [Comandos Básicos](./comandos.md) **
 3.  [Cómo reportar problemas](./issues.md)
-4.  [Protecciones] (./protecciones.md)
+4.  [Protecciones](./protecciones.md)
 
 ¡Nos vemos dentro del juego!
 🔗 [Leer más...](docs/issues.md)
